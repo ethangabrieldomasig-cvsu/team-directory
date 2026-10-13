@@ -37,6 +37,13 @@ function About() {
           <li>Local JavaScript data</li>
         </ul>
       </div>
+      
+      <p className="mt-4 leading-7 text-gray-600">
+        This project demonstrates reusable React components,
+        client-side routing, state management with useState,
+        and side effects with useEffect.
+      </p>
+
     </section>
   )
 }
